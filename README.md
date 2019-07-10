@@ -10,7 +10,7 @@ Moringa School
 
 ##Description
 
-Projectquotes is a web application that gathers quotes from various individuals past and present.
+Quotes is a web application that gathers quotes from various individuals past and present.
 
 Visitors to the site are encourage to post their favourite quotes by historical and/or present figures. This is then made visible to others who can either upvote or downvote and the quote with the highest number of vote gets highlighted.
 
