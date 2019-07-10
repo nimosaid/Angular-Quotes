@@ -2,9 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
-uotes is a web application that gathers inforomation about different quotes from various individuals past and present. What was said ,who said them and who posed the quote plus the time that has passed since the post was made published.Quotes made past and present. 16/03/2018
+Quotes is a web application that gathers inforomation about different quotes from various individuals past and present. What was said ,who said them and who posed the quote plus the time that has passed since the post was made published.Quotes made past and present. 16/03/2018
 
 By Nimo Said
+
 Moringa School
 
 ##Description
@@ -19,11 +20,12 @@ There are no installation requirments needed... with your web browser you can be
 
 #Known Bugs
 
-There is a small issue that will be fixed in the coming days... an auto-refresh. clearing the fields as soon as the quote is submitted. and highlighting the quote with the highest number of votes.
+  No known bugs.
+
 
 #Technologies Used
 
-The game was build mainly with HTML CSS Javascript/Typescript... there s also the use of bootstrap.min.css used to style some parts of the Webpage and Jquery used to call some functions. All this were built on Angular.
+The webapp was build mainly with HTML CSS Javascript/Typescript... there s also the use of bootstrap.min.css used to style some parts of the Webpage and Jquery used to call some functions. All this were built on Angular.
 
 #Support and contact details
 
