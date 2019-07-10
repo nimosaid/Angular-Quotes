@@ -1,35 +1,60 @@
 # Quotes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
-## Quotes Developer
-emdeechege
+uotes is a web application that gathers inforomation about different quotes from various individuals past and present. What was said ,who said them and who posed the quote plus the time that has passed since the post was made published.Quotes made past and present. 16/03/2018
 
-## Project name
-Quotes
+By Nimo Said
+Moringa School
 
-## Description
-This is an angular app for generating and saving new quotes, voting for  and deleting them.
+##Description
 
-## Specifications
-This app creates a new quote.
+Projectquotes is a web application that gathers quotes from various individuals past and present.
 
-You can vote as well as see when the quote was published.
+Visitors to the site are encourage to post their favourite quotes by historical and/or present figures. This is then made visible to others who can either upvote or downvote and the quote with the highest number of vote gets highlighted.
 
-It allows the user to delete a quote.
+#Setup/Installation Requirements
 
-## Setup/Installation Requirements
-Internet connection
+There are no installation requirments needed... with your web browser you can be abe to access the site.
 
-Angular and node installations
+#Known Bugs
 
-## Link to deployed page:
-<https://emdeechege.github.io/Angular-quotes/>
+There is a small issue that will be fixed in the coming days... an auto-refresh. clearing the fields as soon as the quote is submitted. and highlighting the quote with the highest number of votes.
 
-## Technologies used
-Angular, HTML, CSS, Bootstrap.
+#Technologies Used
 
-## License and terms of use
-MIT License this application's source code is free for any open source projects
+The game was build mainly with HTML CSS Javascript/Typescript... there s also the use of bootstrap.min.css used to style some parts of the Webpage and Jquery used to call some functions. All this were built on Angular.
 
-©Emdeechege 2018 | Moringa School
+#Support and contact details
+
+In the event that you run into an issue that you need sorted or clarified, feel free to reach out to me saidnimo123@gmail.com and I should be able to reply within 48hours. Also feel free to make contribtion to the code and to improve it.
+
+#License
+
+MIT Copyright (c) 2018 Nimo Said and Moringa School
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
