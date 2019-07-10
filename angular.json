@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "quotes": {
+    "Angular-Angular-Quotes": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/quotes",
+            "outputPath": "dist/Angular-Quotes",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -53,18 +53,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "quotes:build"
+            "browserTarget": "Angular-Quotes:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "quotes:build:production"
+              "browserTarget": "Angular-Quotes:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "quotes:build"
+            "browserTarget": "Angular-Quotes:build"
           }
         },
         "test": {
@@ -101,7 +101,7 @@
         }
       }
     },
-    "quotes-e2e": {
+    "Angular-Quotes-e2e": {
       "root": "e2e/",
       "projectType": "application",
       "architect": {
@@ -109,11 +109,11 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "quotes:serve"
+            "devServerTarget": "Angular-Quotes:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "quotes:serve:production"
+              "devServerTarget": "Angular-Quotes:serve:production"
             }
           }
         },
@@ -129,5 +129,5 @@
       }
     }
   },
-  "defaultProject": "quotes"
+  "defaultProject": "Angular-Quotes"
 }

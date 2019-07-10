@@ -1,6 +1,6 @@
 body {
   background-image: url('./assets/one.jpg');
-  background-repeat: ;
+  background-repeat: no-repeat ;
 }
 
 html, body { height: 100%; }
